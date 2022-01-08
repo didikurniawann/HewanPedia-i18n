@@ -1,5 +1,7 @@
 Aplikasi android sederhana yang mendemonstrasikan cara membuat aplikasi dengan dukungan multibahasa
 
+
+
 ![english](https://user-images.githubusercontent.com/44797767/148634858-d94ed371-e69d-4747-a668-3be3f60e1f17.gif)
 
 
